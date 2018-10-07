@@ -1,6 +1,8 @@
 # brake_pedal_beam_load_cell
 Simplest code to exercise an HX711 based beam load cell pedal for sim racing
 
+:warning: Depending on the HX711 breakout board you get, you may need to cut a trace at the back of the board to enable fast sampling of the load cell (often identified as "RATE" on the silkscreen). The intent is to get pin 15 (RATE) to be tied to VCC. This will enable 80Hz data sampling.
+
 ------
 
 SOFTWARE
