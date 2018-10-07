@@ -17,6 +17,8 @@ Connections Between the Teensy and the HX711 breakout board:
 | 3.3V  | VCC  |
 | GND  | GND  |
 
+------
+
 Connections Between the X711 breakout and load beam cell are load beam cell dependent but should follow a colour coding.
 
 ------
