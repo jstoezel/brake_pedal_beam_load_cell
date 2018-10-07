@@ -1,6 +1,18 @@
 # brake_pedal_beam_load_cell
 Simple code to exercise an HX711 based beam load cell pedal for sim racing
 
+--
+
+SOFTWARE
+
+This project is dependent on this library
+
+https://github.com/aguegu/ardulibs/tree/master/hx711
+
+--
+
+HARDWARE
+
 This project requires:
 - A Teensy LC https://www.pjrc.com/teensy/teensyLC.html
 - An HX711 breakout board such as these ones on eBay: https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2380057.m570.l1313.TR11.TRC2.A0.H0.Xhx711.TRS0&_nkw=hx711&_sacat=0
