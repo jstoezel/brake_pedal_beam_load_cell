@@ -9,12 +9,14 @@ This project requires:
 ------
 
 Connections Between the Teensy and the HX711 breakout board:
-TEENSY                           HX711
 
-0                                CLK
-1                                DAT
-3.3V                             VCC
-GND                              GND
+| TEENSY  | HX711 |
+| ------------- | ------------- |
+| 0  | CLK  |
+| 1  | DAT  |
+| 3.3V  | VCC  |
+| GND  | GND  |
 
 Connections Between the X711 breakout and load beam cell are load beam cell dependent but should follow a colour coding.
 
+------
