@@ -5,7 +5,7 @@ Simplest code to exercise an HX711 based beam load cell pedal for sim racing
 
 SOFTWARE
 
-This project is dependent on this library
+This project is dependent on the following library
 
 https://github.com/aguegu/ardulibs/tree/master/hx711
 
